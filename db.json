@@ -1,0 +1,235 @@
+{
+  "seller": [
+    {
+      "id": "dff0",
+      "Name": "teju",
+      "Email": "teju@gmail.com",
+      "Password": "chdj"
+    },
+    {
+      "id": "d8c0",
+      "Name": "nikhil",
+      "Email": "nik@gmail.com",
+      "Password": "abc"
+    },
+    {
+      "id": "f54a",
+      "Name": "nikhil2",
+      "Email": "nikh@gmail.com",
+      "Password": "abcd"
+    },
+    {
+      "id": "b38a",
+      "Name": "vihan",
+      "Password": "vihan123",
+      "Email": "vihan@gmail.com"
+    },
+    {
+      "id": "2ba8",
+      "Name": "vihan",
+      "Password": "vihan123",
+      "Email": "vihan@gmail.com"
+    },
+    {
+      "id": "403d",
+      "Name": "vihan",
+      "Password": "vihan123",
+      "Email": "vihan@gmail.com"
+    },
+    {
+      "id": "3632",
+      "Name": "vihan",
+      "Password": "asc",
+      "Email": "vihan@123"
+    },
+    {
+      "id": "f877",
+      "Name": "vihan",
+      "Password": "asc",
+      "Email": "vihan@123"
+    },
+    {
+      "id": "a82e",
+      "Name": "vihan",
+      "Password": "asc",
+      "Email": "vihan@123"
+    },
+    {
+      "id": "f68c",
+      "Name": "vihan",
+      "Password": "asc",
+      "Email": "vihan@123"
+    },
+    {
+      "id": "56f0",
+      "Name": "",
+      "Password": "",
+      "Email": ""
+    },
+    {
+      "id": "3f04",
+      "Name": "vihan",
+      "Password": "vihan",
+      "Email": "vihan@gmail.com"
+    },
+    {
+      "id": "0f4c",
+      "Name": "vihan",
+      "Password": "xvb",
+      "Email": "nik@gmail.com"
+    }
+  ],
+  "Products": [
+    {
+      "name": "iphone 14",
+      "price": "600000",
+      "colour": "blue",
+      "description": "good",
+      "image": "../../assets/image/iPhone_14_Blue_PDP_Image_Position-1A__WWEN_823x.png",
+      "category": "mobile",
+      "id": "05e6"
+    },
+    {
+      "name": "iphone18",
+      "price": "100",
+      "colour": "white",
+      "category": "mobile",
+      "description": "sadas",
+      "image": "../../assets/image/pexels-photo-788946.webp",
+      "id": "305d"
+    },
+    {
+      "name": "sam",
+      "price": "10000",
+      "colour": "blue",
+      "category": "xzcv",
+      "description": "x zx",
+      "image": "../../assets/image/pexels-photo-1647976.jpeg",
+      "id": "c85d"
+    },
+    {
+      "name": "buddhamonk ",
+      "price": "1500",
+      "colour": "orange",
+      "category": "ShowPiece1",
+      "description": "We offer decorative large vases, figurines, wall art, sculptures, and miniature replicas. ",
+      "image": "../../assets/image/show.jpeg",
+      "id": "b007"
+    },
+    {
+      "id": "d6c1",
+      "name": "Mens Printed cotton Tshirt",
+      "price": "4000",
+      "colour": "Maroon",
+      "category": "Tshirt",
+      "description": "Maroon and black printed T-shirt, has a round neck, long sleeves",
+      "image": "../../assets/image/tshir.jpeg"
+    },
+    {
+      "name": "blocks",
+      "price": "20000",
+      "colour": "orange",
+      "category": "toy",
+      "description": "102 Blocks Train Bricks with Wheel Educational Learning Kids Toys Games",
+      "image": "../../assets/image/kids.jpeg",
+      "id": "ea6f"
+    },
+    {
+      "id": "eb47",
+      "name": "Buddha monk",
+      "price": "3333",
+      "colour": "multicolour",
+      "category": "Toy",
+      "description": "We offer decorative large vases, figurines, wall art",
+      "image": "../../assets/image/show.jpeg"
+    }
+  ],
+  "user": [
+    {
+      "id": "335c",
+      "Name": "nikhil",
+      "Email": "nik@gmail.com",
+      "Password": "nik123"
+    },
+    {
+      "id": "c5a4",
+      "Name": "teju1",
+      "Email": "teju@gmail.com",
+      "Password": "abc"
+    },
+    {
+      "id": "7399",
+      "Name": "vihan",
+      "Email": "vihan@gmail.com",
+      "Password": "vihan"
+    }
+  ],
+  "cart": [
+    {
+      "id": "42f2",
+      "name": "sam",
+      "price": "10000",
+      "colour": "blue",
+      "category": "xzcv",
+      "description": "x zx",
+      "image": "../../assets/image/pexels-photo-1647976.jpeg",
+      "quantity": 1,
+      "userId": "335c",
+      "productId": "c85d"
+    },
+    {
+      "id": "ec38",
+      "name": "sam",
+      "price": "10000",
+      "colour": "blue",
+      "category": "xzcv",
+      "description": "x zx",
+      "image": "../../assets/image/pexels-photo-1647976.jpeg",
+      "quantity": 1,
+      "userId": "335c",
+      "productId": "c85d"
+    },
+    {
+      "id": "602b",
+      "name": "sam",
+      "price": "10000",
+      "colour": "blue",
+      "category": "xzcv",
+      "description": "x zx",
+      "image": "../../assets/image/pexels-photo-1647976.jpeg",
+      "quantity": 1,
+      "userId": "c5a4",
+      "productId": "c85d"
+    },
+    {
+      "id": "b007",
+      "name": "buddhamonk ",
+      "price": "1500",
+      "colour": "orange",
+      "category": "ShowPiece1",
+      "description": "We offer decorative large vases, figurines, wall art, sculptures, and miniature replicas. ",
+      "image": "../../assets/image/show.jpeg",
+      "quantity": 1,
+      "userId": "7399",
+      "productId": "b007"
+    }
+  ],
+  "orders": [
+    {
+      "id": "53af",
+      "email": "teju@gmail.com",
+      "address": "casdv",
+      "contact": "213435",
+      "totalPrice": 13200,
+      "userId": "7399"
+    },
+    {
+      "id": "3966",
+      "email": "teju@gmail.com",
+      "address": "casdv",
+      "contact": "213435",
+      "totalPrice": 10100,
+      "userId": "7399"
+    }
+  ]
+}
