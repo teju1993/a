@@ -166,30 +166,6 @@
   ],
   "cart": [
     {
-      "id": "42f2",
-      "name": "sam",
-      "price": "10000",
-      "colour": "blue",
-      "category": "xzcv",
-      "description": "x zx",
-      "image": "../../assets/image/pexels-photo-1647976.jpeg",
-      "quantity": 1,
-      "userId": "335c",
-      "productId": "c85d"
-    },
-    {
-      "id": "ec38",
-      "name": "sam",
-      "price": "10000",
-      "colour": "blue",
-      "category": "xzcv",
-      "description": "x zx",
-      "image": "../../assets/image/pexels-photo-1647976.jpeg",
-      "quantity": 1,
-      "userId": "335c",
-      "productId": "c85d"
-    },
-    {
       "id": "602b",
       "name": "sam",
       "price": "10000",
@@ -200,18 +176,6 @@
       "quantity": 1,
       "userId": "c5a4",
       "productId": "c85d"
-    },
-    {
-      "id": "b007",
-      "name": "buddhamonk ",
-      "price": "1500",
-      "colour": "orange",
-      "category": "ShowPiece1",
-      "description": "We offer decorative large vases, figurines, wall art, sculptures, and miniature replicas. ",
-      "image": "../../assets/image/show.jpeg",
-      "quantity": 1,
-      "userId": "7399",
-      "productId": "b007"
     }
   ],
   "orders": [
@@ -230,6 +194,14 @@
       "contact": "213435",
       "totalPrice": 10100,
       "userId": "7399"
+    },
+    {
+      "id": "38d1",
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 10100,
+      "userId": "335c"
     }
   ]
 }
