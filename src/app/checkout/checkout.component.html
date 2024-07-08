@@ -8,11 +8,11 @@
                 <input type="email" placeholder="Enter User Email" name="email" class="form-input" #email="ngModel"
                     required>
                 <p class="invalid-input"><span *ngIf="email.invalid && email.touched">Please Enter Name</span></p>
-                <input type="Address" placeholder="Enter User Address" name="address" class="form-input" ngModel
-                    required>
+                <input type="Address" placeholder="Enter User Address" name="address" class="form-input"
+                    #address="ngModel" required>
                 <p class="invalid-input"><span *ngIf="address.invalid && address.touched">Please Enter Email</span></p>
-                <input type="contact" placeholder="Enter User Contact Detail" name="contact" class="form-input" ngModel
-                    required>
+                <input type="contact" placeholder="Enter User Contact Detail" name="contact" class="form-input"
+                    #contact="ngModel" required>
                 <p class="invalid-input"><span *ngIf="contact.invalid && contact.touched">Please Enter Email</span></p>
                 <button [disabled]="orderForm.invalid" class="form-button">Order Now</button>
             </form>
